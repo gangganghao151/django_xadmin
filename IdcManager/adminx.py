@@ -20,7 +20,7 @@ class GlobalSettings():
     # 设置应用的名称
     site_title = 'IDC服务器运维管理平台'
     # 设置应用的脚注
-    site_footer = '中软国际'
+    site_footer = '中软国际CTO'
     # 扩展：设置左边菜单栏的样式(折叠)
     #menu_style = 'accordion'
 
